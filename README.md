@@ -4,10 +4,6 @@
    <p>Desenvolvo jogos na Unreal Engine e produzo mods para Minecraft, da versão 1.20.1 até a mais recente. Atualmente, estou aprendendo TypeScript.</p>
 </div>
 <div align="center">
-  <h2>GitHub stats</h2>
-  <img src="https://github-stats-extended.vercel.app/api?username=LeitzkeCo" alt="Estatísticas do GitHub de LeitzkeCo / LeitzkeCo's GitHub stats" />
-</div>
-<div align="center">
   <h2>Tecnologias</h2>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
