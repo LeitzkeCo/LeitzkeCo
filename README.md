@@ -3,6 +3,9 @@
    <h2>VAMBORA</h2>
    <p>Desenvolvo jogos na Unreal Engine e produzo mods para Minecraft, da versão 1.20.1 até a mais recente. Atualmente, estou aprendendo TypeScript.</p>
 </div>
+<div>
+    <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white](https://i.postimg.cc/4xGSpBXW/leitzke2.png)" alt="Leitzke" />
+</div>
 <div align="center">
   <h2>Tecnologias</h2>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
