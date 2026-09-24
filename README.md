@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript — aprendendo / learning" />
   <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
 </div>
 <div align="center">
   <h2>Social</h2>
