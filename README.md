@@ -4,7 +4,7 @@
    <p>Desenvolvo jogos na Unreal Engine e produzo mods para Minecraft, da versão 1.20.1 até a mais recente. Atualmente, estou aprendendo TypeScript.</p>
 </div>
 <div align="center">
-    <img src="https://i.postimg.cc/4xGSpBXW/leitzke2.png" alt="Leitzke"/>
+    <img src="https://i.postimg.cc/wTqNJmSg/work-in-progress2-(2).png" alt="Leitzke"/>
 </div>
 <div align="center">
   <h2>Tecnologias</h2>
